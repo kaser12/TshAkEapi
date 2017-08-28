@@ -1,10 +1,9 @@
---[[                                    Dev @lIMyIl         
-   _____    _        _    _    _____    Dev @EMADOFFICAL 
-  |_   _|__| |__    / \  | | _| ____|   Dev @h_k_a  
-    | |/ __| '_ \  / _ \ | |/ /  _|     Dev @IX00XI
-    | |\__ \ | | |/ ___ \|   <| |___    Dev @H_173
-    |_||___/_| |_/_/   \_\_|\_\_____|   Dev @lIESIl
-              CH > @TshAkETEAM
+--[[                                             
+   _____    _        _    _    _____    
+  |_   _|__| |__    / \  | | _| ____|   
+    | |/ __| '_ \  / _ \ | |/ /  _|     
+    | |\__ \ | | |/ ___ \|   <| |___    
+    |_||___/_| |_/_/   \_\_|\_\_____|   
 --]]
 serpent = require('serpent')
 serp = require 'serpent'.block
@@ -5139,7 +5138,7 @@ end
       end
       end
       end
-      if mutept[2] == "file warn" or TSHAKE[2] == "الملفات بالتحذير" then
+      if mutept[2] == "file warn" or TSHAKE[2] == "الملفات بالتح��ير" then
 	  if not database:get('bot:document:warn'..msg.chat_id_) then
     if database:get('lang:gp:'..msg.chat_id_) then
          send(msg.chat_id_, msg.id_, 1, '_> file ban has been_ *Locked*', 1, 'md')
@@ -7652,11 +7651,11 @@ end
     end
      
   ----------------------------------------------------------------------------------------------- 
-if text:match("^[Dd][Ee][Vv]$")or text:match("^مطور بوت$") or text:match("^مطورين$") or text:match("^مطور البوت$") or text:match("^مطور$") or text:match("^المطور$") and msg.reply_to_message_id_ == 0 then
+if text:match("^[Dd][Ee][Vv]$")or text:match("^ NN$") or text:match("^MM$") or text:match("^M $") or text:match("^MMM$") or text:match("^المطور$") and msg.reply_to_message_id_ == 0 then
 local nkeko = redis:get('nmkeko'..bot_id)
 local nakeko = redis:get('nakeko'..bot_id)
   
-sendContact(msg.chat_id_, msg.id_, 0, 1, nil, (nkeko or 9647707641864), (nakeko or "TshAke TEAM"), "", bot_id)
+sendContact(msg.chat_id_, msg.id_, 0, 1, nil, (nkeko or https://t.me/USA_KASPERK5), (nakeko or "USA_KASPERK5"), "", bot_id)
 end
   for k,v in pairs(sudo_users) do
 local text = msg.content_.text_:gsub('تغير امر المطور','change ph')
@@ -9245,32 +9244,16 @@ end
                 send(msg.chat_id_, msg.id_, 1, text, 1, 'md')
    end
    
-if text:match("^source$") or text:match("^اصدار$") or text:match("^الاصدار$") or text:match("^السورس$") or text:match("^سورس$") then
+if text:match("^source$") or text:match("^L$") or text:match("NN$") or text:match("^السورس$") or text:match("^K$") then
    
    local text =  [[
-• <code>اهلا بك في سورس تشاكي</code> 🦁ֆ
 
-• <code>المطورين</code> ⚜️:-
-• <b>TshAkE TEAM </b>
+🌹اهلا وسهلا بك في سورس كاسبر العملاق🌹
 
-• <code>قناه السورس</code> ❇️:-
-•<b> Channel</b> | @lTSHAKEl_CH
-
-• <code>رابط Github cli </code>🔰:-
-• https://github.com/moodlIMyIl/TshAkE
-
-• <code>رابط Github api </code>🔰:-
-• https://github.com/moodlIMyIl/TshAkEapi
 ]]
                 send(msg.chat_id_, msg.id_, 1, text, 1, 'html')
    end
 
-if text:match("^اريد رابط حذف$") or text:match("^رابط حذف$") or text:match("^رابط الحذف$") or text:match("^الرابط حذف$") or text:match("^اريد رابط الحذف$") then
-   
-   local text =  [[
-• رابط حذف التلي ⬇️ ֆ
-• احذف ولا ترجع عيش حياتك 😾💚ֆ
-• https://telegram.org/deactivate
 ]]
                 send(msg.chat_id_, msg.id_, 1, text, 1, 'html')
    end
@@ -9446,11 +9429,10 @@ end
   -----------------------------------------------------------------------------------------------
 end
 
---[[                                    Dev @lIMyIl         
-   _____    _        _    _    _____    Dev @EMADOFFICAL 
-  |_   _|__| |__    / \  | | _| ____|   Dev @h_k_a  
-    | |/ __| '_ \  / _ \ | |/ /  _|     Dev @IX00XI
-    | |\__ \ | | |/ ___ \|   <| |___    Dev @H_173
-    |_||___/_| |_/_/   \_\_|\_\_____|   Dev @lIESIl
-              CH > @TshAkETEAM
+--[[ 
+   _____    _        _    _    _____    
+  |_   _|__| |__    / \  | | _| ____|   
+    | |/ __| '_ \  / _ \ | |/ /  _|     
+    | |\__ \ | | |/ ___ \|   <| |___    
+    |_||___/_| |_/_/   \_\_|\_\_____|   
 --]]
